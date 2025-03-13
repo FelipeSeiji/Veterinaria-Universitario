@@ -1,2 +1,2 @@
 # Veterinaria-Universitario-
-É um projeto universitario
+Projeto universitário para aprendizado dos alunos colaboradores.
